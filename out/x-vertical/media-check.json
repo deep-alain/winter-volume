@@ -1,0 +1,238 @@
+{
+  "checkedAt": "2026-11-12T06:37:45.000Z",
+  "duration": 12,
+  "fps": 30,
+  "source": {
+    "renderer": "webgl2",
+    "frames": 360,
+    "exactSourceEndpointsMatch": true,
+    "seamChecks": {
+      "portrait": {
+        "endpointDifference": 0,
+        "seamDifference": 0.018945816186556927,
+        "neighborDifference": 0.016506630086877,
+        "differences": [
+          0.0059609053497942386,
+          0.014627572016460906,
+          0.018945816186556927,
+          0.012133516232281665,
+          0.016506630086877
+        ]
+      },
+      "square": {
+        "endpointDifference": 0,
+        "seamDifference": 0.016036808413351623,
+        "neighborDifference": 0.013497942386831276,
+        "differences": [
+          0.004732510288065843,
+          0.012325102880658436,
+          0.016036808413351623,
+          0.010285208047553727,
+          0.013497942386831276
+        ]
+      }
+    }
+  },
+  "audioSource": {
+    "originalSynthesis": true,
+    "rate": 48000,
+    "peak": 0.05228698904519316,
+    "sourceBoundarySampleDifference": 0.00012821894540095136
+  },
+  "videos": [
+    {
+      "file": "winter-volume-portrait-loop.mp4",
+      "width": 1080,
+      "height": 1350,
+      "duration": 12,
+      "fps": 30,
+      "frames": 360,
+      "codec": "H.264 / yuv420p + AAC LC stereo",
+      "bytes": 26629592,
+      "faststart": true,
+      "decode": "passed",
+      "visualLoop": {
+        "seamMeanAbsoluteRgbDifference": 0.0386843450946015,
+        "neighborMaxMeanAbsoluteRgbDifference": 0.0654320987654321,
+        "seamToNeighborRatio": 0.5912135759740984,
+        "differences": [
+          0.04361165899627438,
+          0.0654320987654321,
+          0.0386843450946015,
+          0.05769961282781796,
+          0.05548250420045292
+        ],
+        "seam": "passed",
+        "backgroundPixels": [
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ]
+        ]
+      },
+      "audio": {
+        "rate": 48000,
+        "channels": 2,
+        "decodedSamplesPerChannel": 576512,
+        "nominalSamplesPerChannel": 576000,
+        "trailingCodecPaddingSamples": 512,
+        "peak": 0.05195704847574234,
+        "boundaries": [
+          {
+            "channel": 0,
+            "boundarySampleDifference": 0.002293079160153866,
+            "nearBoundaryMaxAdjacentDifference": 0.004323309287428856,
+            "first10msRms": 0.006683344773484675,
+            "last10msRms": 0.01141066504190832
+          },
+          {
+            "channel": 1,
+            "boundarySampleDifference": 0.001999739557504654,
+            "nearBoundaryMaxAdjacentDifference": 0.004138601943850517,
+            "first10msRms": 0.0062840688088381304,
+            "last10msRms": 0.010760012118812638
+          }
+        ],
+        "seam": "passed"
+      }
+    },
+    {
+      "file": "winter-volume-square-loop.mp4",
+      "width": 1080,
+      "height": 1080,
+      "duration": 12,
+      "fps": 30,
+      "frames": 360,
+      "codec": "H.264 / yuv420p + AAC LC stereo",
+      "bytes": 15783197,
+      "faststart": true,
+      "decode": "passed",
+      "visualLoop": {
+        "seamMeanAbsoluteRgbDifference": 0.037187928669410154,
+        "neighborMaxMeanAbsoluteRgbDifference": 0.04748971193415638,
+        "seamToNeighborRatio": 0.7830733679953784,
+        "differences": [
+          0.023726566072245086,
+          0.04748971193415638,
+          0.037187928669410154,
+          0.04206675811614083,
+          0.040589849108367625
+        ],
+        "seam": "passed",
+        "backgroundPixels": [
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ],
+          [
+            214,
+            217,
+            211
+          ]
+        ]
+      },
+      "audio": {
+        "rate": 48000,
+        "channels": 2,
+        "decodedSamplesPerChannel": 576512,
+        "nominalSamplesPerChannel": 576000,
+        "trailingCodecPaddingSamples": 512,
+        "peak": 0.05195704847574234,
+        "boundaries": [
+          {
+            "channel": 0,
+            "boundarySampleDifference": 0.002293079160153866,
+            "nearBoundaryMaxAdjacentDifference": 0.004323309287428856,
+            "first10msRms": 0.006683344773484675,
+            "last10msRms": 0.01141066504190832
+          },
+          {
+            "channel": 1,
+            "boundarySampleDifference": 0.001999739557504654,
+            "nearBoundaryMaxAdjacentDifference": 0.004138601943850517,
+            "first10msRms": 0.0062840688088381304,
+            "last10msRms": 0.010760012118812638
+          }
+        ],
+        "seam": "passed"
+      }
+    }
+  ],
+  "images": [
+    {
+      "file": "cover-1080x1350.png",
+      "width": 1080,
+      "height": 1350,
+      "bytes": 215353,
+      "pngHeader": "passed"
+    },
+    {
+      "file": "day-1080x1350.png",
+      "width": 1080,
+      "height": 1350,
+      "bytes": 222993,
+      "pngHeader": "passed"
+    },
+    {
+      "file": "detail-1080x1080.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 261415,
+      "pngHeader": "passed"
+    },
+    {
+      "file": "stages-1600x1000.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 550331,
+      "pngHeader": "passed"
+    }
+  ]
+}

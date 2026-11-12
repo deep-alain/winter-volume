@@ -1,0 +1,64 @@
+{
+  "source": {
+    "duration": 12,
+    "fps": 30,
+    "frames": 360,
+    "renderer": "webgl2",
+    "sourceChecks": {
+      "portrait": {
+        "endpointDifference": 0,
+        "seamDifference": 0.018945816186556927,
+        "neighborDifference": 0.016506630086877,
+        "differences": [
+          0.0059609053497942386,
+          0.014627572016460906,
+          0.018945816186556927,
+          0.012133516232281665,
+          0.016506630086877
+        ]
+      },
+      "square": {
+        "endpointDifference": 0,
+        "seamDifference": 0.016036808413351623,
+        "neighborDifference": 0.013497942386831276,
+        "differences": [
+          0.004732510288065843,
+          0.012325102880658436,
+          0.016036808413351623,
+          0.010285208047553727,
+          0.013497942386831276
+        ]
+      }
+    }
+  },
+  "audio": {
+    "originalSynthesis": true,
+    "rate": 48000,
+    "peak": 0.05228698904519316,
+    "sourceBoundarySampleDifference": 0.00012821894540095136
+  },
+  "media": [
+    {
+      "file": "winter-volume-portrait-loop.mp4",
+      "width": 1080,
+      "height": 1350,
+      "fps": 30,
+      "duration": 12,
+      "frames": 360,
+      "bytes": 26629592,
+      "codecs": "H.264 High / yuv420p + AAC LC stereo",
+      "encoderWarnings": "[aist#1:0/pcm_s16le @ 000001f8e917eec0] Guessed Channel Layout: stereo"
+    },
+    {
+      "file": "winter-volume-square-loop.mp4",
+      "width": 1080,
+      "height": 1080,
+      "fps": 30,
+      "duration": 12,
+      "frames": 360,
+      "bytes": 15783197,
+      "codecs": "H.264 High / yuv420p + AAC LC stereo",
+      "encoderWarnings": "[aist#1:0/pcm_s16le @ 000001e8037e91c0] Guessed Channel Layout: stereo"
+    }
+  ]
+}

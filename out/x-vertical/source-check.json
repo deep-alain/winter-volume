@@ -1,0 +1,32 @@
+{
+  "duration": 12,
+  "fps": 30,
+  "frames": 360,
+  "renderer": "webgl2",
+  "sourceChecks": {
+    "portrait": {
+      "endpointDifference": 0,
+      "seamDifference": 0.018945816186556927,
+      "neighborDifference": 0.016506630086877,
+      "differences": [
+        0.0059609053497942386,
+        0.014627572016460906,
+        0.018945816186556927,
+        0.012133516232281665,
+        0.016506630086877
+      ]
+    },
+    "square": {
+      "endpointDifference": 0,
+      "seamDifference": 0.016036808413351623,
+      "neighborDifference": 0.013497942386831276,
+      "differences": [
+        0.004732510288065843,
+        0.012325102880658436,
+        0.016036808413351623,
+        0.010285208047553727,
+        0.013497942386831276
+      ]
+    }
+  }
+}
